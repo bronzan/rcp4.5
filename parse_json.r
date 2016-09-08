@@ -1,3 +1,7 @@
+## Initialize my intermediate and output variables in my usual
+## eccentric way
+
+
 newrow <- c()
 normalrange <- data.frame()
 
